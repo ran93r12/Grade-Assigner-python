@@ -53,7 +53,7 @@ def Processing():
   root = tk.Tk()
   lbl = ImageLabel(root)
   lbl.pack()
-  lbl.load('Process.gif')
+  lbl.load('assets/Process.gif')
   root.after(2000, lambda: root.destroy())
   root.mainloop()
 
