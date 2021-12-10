@@ -5,7 +5,6 @@
 Automated Grade Allotment for students.
 
 
-# Hi, I'm Ponith! 👋
 
 
 ## What's this about?
@@ -46,10 +45,6 @@ Execution
   python3 Grade_Allocator.py
 ```
 
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Language Used
